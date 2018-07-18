@@ -1,0 +1,2 @@
+# core
+Guidelines and Templates
