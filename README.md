@@ -1,18 +1,19 @@
 # Contributing to EngineersMY
 
-Most EngineersMY's project is licensed at [the 2-Clause BSD License](https://opensource.org/licenses/BSD-2-Clause).
+EngineersMY applies the following licenses
+- code, the preferred licence is [the 2-Clause BSD License](https://opensource.org/licenses/BSD-2-Clause)
+- content, media/assets/articles should be licensed as [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)
 
-Contribution includes 
-
-- Pull request
+Accepted Contribution includes
+- Codes including Pull Request
 - Issues
 - Translation
-- Content Submission (Article, Video)
+- Articles/Assets/Video
 
-Whenever you are contributing to EngineersMY, you must agree to 
+Whenever you are contributing to EngineersMY, you must acknowledge and agree to 
 - the Code of Conduct
-- Waiver of copyright to FOSS licensing
-- Does not contain copyrighted materials obtained elsewhere
+- waiver of copyright to the project licence
+- not containing copyrighted material obtained elsewhere
 
 ## Code of Conduct
 
